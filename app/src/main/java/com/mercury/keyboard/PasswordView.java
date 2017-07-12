@@ -24,9 +24,9 @@ public class PasswordView extends RelativeLayout {
 
     private VirtualKeyboardView virtualKeyboardView;
 
-    private TextView[] tvList;      //用数组保存6个TextView，为什么用数组？
+    private TextView[] tvList;      //用数组保存6个TextView
 
-    private ImageView[] imgList;      //用数组保存6个TextView，为什么用数组？
+    private ImageView[] imgList;      //用数组保存6个TextView
 
     private GridView gridView;
 
